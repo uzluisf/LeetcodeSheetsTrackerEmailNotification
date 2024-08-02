@@ -32,7 +32,7 @@ When adding a Leetcode problem to the sheet, I add a **Review Date** in the futu
 
 5. When you click **Save**, a warning will pop out. Click on **Advanced** and then **Go to...**.
 
-<img width="864" alt="verifying-app" src="https://github.com/user-attachments/assets/6d51ba4c-8815-4554-874d-9bb1040056ca">
+![image](https://github.com/user-attachments/assets/008214e1-f860-4b65-ad6f-2c41f74da844)
 
 6. If you trust the app you created, then click **Allow**.
    
