@@ -40,5 +40,4 @@ When adding a Leetcode problem to the sheet, I add a **Review Date** in the futu
 
 7. When the script is triggered, you should receive an email if you've Leetcode problems to review in the sheet for that day.
 
-<img width="1403" alt="email" src="https://github.com/user-attachments/assets/e04fc24d-0a7f-4496-95f8-4ce5ee9ad2cd">
-
+![image](https://github.com/user-attachments/assets/154e1789-7f37-452b-bc38-0ad231d6d80e)
